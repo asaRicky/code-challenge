@@ -1,0 +1,21 @@
+.nav{
+    align-items: center;
+    display: inline-block;
+}
+body{
+    background: lightblue;
+}
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-decoration-color: antiquewhite;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
